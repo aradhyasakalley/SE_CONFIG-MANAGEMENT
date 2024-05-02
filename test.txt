@@ -1,1 +1,4 @@
-Hello this a test file
+Hello this a test file.
+
+I have made changes to this test File.
+Smit Dama has taken over control of repository
